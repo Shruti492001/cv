@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -55,22 +55,22 @@
             <td>🌟🌟🌟</td>
           </tr>
 
-          <tr>
+   <tr>
             <td>OOPs</td>
             <td>🌟🌟🌟</td>
           </tr>
 
-        </table>
+   </table>
       </td>
       <td>
         <table cellspacing="25">
 
-          <tr>
+   <tr>
             <td>C programming</td>
             <td>🌟🌟</td>
           </tr>
 
-          <tr>
+   <tr>
             <td>web development</td>
             <td>🌟</td>
           </tr>
@@ -78,11 +78,7 @@
       </td>
     </tr>
   </table>
-
-
-
-
-  <hr>
+<hr>
   <a href="EXTRA.html">My Hobbies</a>
   <br>
   <a href="contact.html">Contact Details</a>
